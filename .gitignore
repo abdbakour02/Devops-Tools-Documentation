@@ -1,0 +1,10 @@
+# deployment.yaml
+# ingress.yaml
+# services.yaml
+
+*.tfstate
+*.tfvars
+*.tfstate.*
+*.lock.*
+Terraform_Azure/Ubuntu_VM/.terraform
+Terraform_Azure/Windows_VM/.terraform
